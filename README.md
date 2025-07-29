@@ -51,10 +51,10 @@ As a passionate **Software Engineer** and **Cybersecurity Enthusiast**, I thrive
   <img src="https://img.shields.io/github/followers/Revari027?label=Followers&style=flat-square&color=4c5e9e" alt="GitHub Followers" />
 
   <!-- Repo stars (GANTI dengan repo kamu) -->
-  <img src="https://img.shields.io/github/stars/Revari027/sisigap?label=Stars&style=flat-square&color=4c5e9e" alt="Repo Stars" />
+  <img src="https://img.shields.io/github/stars/Revari027/subdomain-finder?label=Stars&style=flat-square&color=4c5e9e" alt="Repo Stars" />
 
   <!-- Most used language in SISIGAP repo (GANTI dengan repo kamu) -->
-  <img src="https://img.shields.io/github/languages/top/Revari027/sisigap?label=Top%20Language&style=flat-square&color=4c5e9e" alt="Top Language" />
+  <img src="https://img.shields.io/github/languages/top/Revari027/subdomain-finder?label=Top%20Language&style=flat-square&color=4c5e9e" alt="Top Language" />
 </p>
 
 
