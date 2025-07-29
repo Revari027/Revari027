@@ -36,7 +36,7 @@ As a passionate **Software Engineer** and **Cybersecurity Enthusiast**, I thrive
   <a href="https://www.tiktok.com/@reva.._" target="_blank"> 
     <img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /> 
   </a> 
-  <a href="https://x.com/namakamu" target="_blank"> 
+  <a href="https://x.com/caramellwithme" target="_blank"> 
     <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" /> 
   </a> 
 </p>
