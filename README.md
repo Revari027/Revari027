@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDEzNG9sdGt4NGxtNXY5M2xxaHNrM295bTdmNW13dWJ1Z202cjNvNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8hmCdMaXUewzcroADq/giphy.gif" 
        alt="Revario Sayiddina Al Habsy" 
-       width="400" />
+       width="300" />
 </p>
 
 
