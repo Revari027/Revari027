@@ -1,11 +1,11 @@
 # 👋 Hello World, I'm Revario Sayiddina Al Habsy
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ef6cc334-6c65-49f5-a7fd-4f1d84ba5592" 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDEzNG9sdGt4NGxtNXY5M2xxaHNrM295bTdmNW13dWJ1Z202cjNvNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8hmCdMaXUewzcroADq/giphy.gif" 
        alt="Revario Sayiddina Al Habsy" 
-       width="200"
-       style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
+       width="400" />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=ffff&size=24&center=true&vCenter=true&width=600&lines=Software+Engineer+%26+Cybersecurity+Enthusiast;Frontend+Developer+with+CySec+Focus;Cryptography+and+Reverse+Engineering+Lover" />
