@@ -22,43 +22,13 @@ As a passionate **Software Engineer** and **Cybersecurity Enthusiast**, I thrive
 
 ---
 
-<img src="https://raw.githubusercontent.com/Revari027/Revari027/output/snake.svg" alt="Snake animation" />
 
 
 ### 📫 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/revario/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30"
-         style="background: white; border-radius: 8px; padding: 5px; margin: 5px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);" />
-  </a>
-  <a href="https://instagram.com/namakamu" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/instagram-original.svg" height="30"
-         style="background: white; border-radius: 8px; padding: 5px; margin: 5px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);" />
-  </a>
-  <a href="https://www.tiktok.com/@namakamu" target="_blank">
-    <img src="https://cdn.simpleicons.org/tiktok/tiktok-original.svg" height="30"
-         style="background: white; border-radius: 8px; padding: 5px; margin: 5px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);" />
-  </a>
-  <a href="https://x.com/namakamu" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/x-original.svg" height="30"
-         style="background: white; border-radius: 8px; padding: 5px; margin: 5px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);" />
-  </a>
-</p>
+<p align="center"> <a href="https://www.linkedin.com/in/revario/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://instagram.com/namakamu" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://www.tiktok.com/@namakamu" target="_blank"> <img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /> </a> <a href="https://x.com/namakamu" target="_blank"> <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" /> </a> </p>
 
-<p align="center">
-  <!-- Profile views -->
-  <img src="https://komarev.com/ghpvc/?username=Revari027&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-
-  <!-- GitHub followers -->
-  <img src="https://img.shields.io/github/followers/Revari027?label=Followers&style=flat-square&color=4c5e9e" alt="GitHub Followers" />
-
-  <!-- Repo stars (GANTI dengan repo kamu) -->
-  <img src="https://img.shields.io/github/stars/Revari027/subdomain-finder?label=Stars&style=flat-square&color=4c5e9e" alt="Repo Stars" />
-
-  <!-- Most used language in SISIGAP repo (GANTI dengan repo kamu) -->
-  <img src="https://img.shields.io/github/languages/top/Revari027/subdomain-finder?label=Top%20Language&style=flat-square&color=4c5e9e" alt="Top Language" />
-</p>
+<p align="center"> <!-- Profile views --> <img src="https://komarev.com/ghpvc/?username=Revari027&label=Profile%20Views&color=4c5e9e&style=flat-square" alt="Profile Views" /> <!-- Followers --> <img src="https://img.shields.io/github/followers/Revari027?label=Followers&style=flat-square&color=4c5e9e" alt="GitHub Followers" /> <!-- Repo stars (contoh: subdomain-finder) --> <img src="https://img.shields.io/github/stars/Revari027/subdomain-finder?label=Repo%20Stars&style=flat-square&color=4c5e9e" alt="Repo Stars" /> <!-- Top language (contoh: subdomain-finder) --> <img src="https://img.shields.io/github/languages/top/Revari027/subdomain-finder?label=Top%20Language&style=flat-square&color=4c5e9e" alt="Top Language" /> </p>
 
 
 
@@ -68,14 +38,21 @@ As a passionate **Software Engineer** and **Cybersecurity Enthusiast**, I thrive
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Revari027&bg_color=1e1e1e&color=58a6ff&line=4c5e9e&point=ffffff&area=true&hide_border=true)](https://github.com/Revari027)
 
-<div align="center">
+## ⭕ Github Stats
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Revari027&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revari027&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Revari027&theme=tokyonight&hide_border=true" />
 </p>
+
+## 💫 Github Commit Activity
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Revari027/Revari027/output/snake.svg" alt="Snake animation" />
+</div>
+
 
 ---
 
