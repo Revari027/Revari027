@@ -48,7 +48,7 @@ As a passionate **Software Engineer** and **Cybersecurity Enthusiast**, I thrive
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Revari027&theme=tokyonight&hide_border=true" />
 </p>
 
-## 💫 Github Commit Activity
+## 💫 Github Contributions Activity
 <div align="center">
   <img src="https://raw.githubusercontent.com/Revari027/Revari027/output/snake.svg" alt="Snake animation" />
 </div>
