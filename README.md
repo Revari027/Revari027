@@ -26,7 +26,20 @@ As a passionate **Software Engineer** and **Cybersecurity Enthusiast**, I thrive
 
 ### 📫 Connect with Me
 
-<p align="center"> <a href="https://www.linkedin.com/in/revario/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://instagram.com/namakamu" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://www.tiktok.com/@namakamu" target="_blank"> <img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /> </a> <a href="https://x.com/namakamu" target="_blank"> <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" /> </a> </p>
+<p align="center"> 
+<a href="https://www.linkedin.com/in/revario-sayiddina-al-habsy-a519a7337/" target="_blank"> 
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+</a> 
+  <a href="https://instagram.com/rev.habsy" target="_blank"> 
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> 
+  </a> 
+  <a href="https://www.tiktok.com/@reva.._" target="_blank"> 
+    <img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /> 
+  </a> 
+  <a href="https://x.com/namakamu" target="_blank"> 
+    <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" /> 
+  </a> 
+</p>
 
 <p align="center"> <!-- Profile views --> <img src="https://komarev.com/ghpvc/?username=Revari027&label=Profile%20Views&color=4c5e9e&style=flat-square" alt="Profile Views" /> <!-- Followers --> <img src="https://img.shields.io/github/followers/Revari027?label=Followers&style=flat-square&color=4c5e9e" alt="GitHub Followers" /> <!-- Repo stars (contoh: subdomain-finder) --> <img src="https://img.shields.io/github/stars/Revari027/subdomain-finder?label=Repo%20Stars&style=flat-square&color=4c5e9e" alt="Repo Stars" /> <!-- Top language (contoh: subdomain-finder) --> <img src="https://img.shields.io/github/languages/top/Revari027/subdomain-finder?label=Top%20Language&style=flat-square&color=4c5e9e" alt="Top Language" /> </p>
 
@@ -106,4 +119,4 @@ As a passionate **Software Engineer** and **Cybersecurity Enthusiast**, I thrive
 
 ---
 
-<p align="center"><strong>✨ Let's secure the digital future — one byte at a time ✨</strong></p>
+<p align="center"><strong> Let's secure the digital future — one byte at a time </strong></p>
