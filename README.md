@@ -22,6 +22,9 @@ As a passionate **Software Engineer** and **Cybersecurity Enthusiast**, I thrive
 
 ---
 
+<img src="https://raw.githubusercontent.com/Revari027/Revari027/output/snake.svg" alt="Snake animation" />
+
+
 ### 📫 Connect with Me
 
 <p align="center">
